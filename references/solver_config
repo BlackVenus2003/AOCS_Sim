@@ -1,0 +1,5 @@
+Solver -	ode4 (Runge–Kutta)
+Type -	Fixed-step
+Fixed-step size - 0.01 s
+Start time -	0.0	
+Stop time -	100
