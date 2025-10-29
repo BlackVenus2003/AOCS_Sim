@@ -3,7 +3,9 @@ A MATLAB/Simulink-based modular Attitude and Orbit Control System (AOCS) framewo
 
 
 #models contains main model and subsystem models.
+
 #scripts contain various scripts used, can modify as conveneint/required.
+
 #docs contain refernece graphs, model architecture.
 
 Happy tinkering!!
